@@ -6,7 +6,7 @@ const setting = defineProps({
 
 <template>
   <button :class="type">
-    button
+    <slot/>
   </button>
 </template>
 
