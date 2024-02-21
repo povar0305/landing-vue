@@ -73,3 +73,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+[Фигма](https://www.figma.com/file/zQ5JuGleGfqhJNJaA1eAzD/SaaS-Landing-Page-Template---Landing-Page-Template-ready-to-export-to-HTML---Landing-page-for-SaaS-(Community)?type=design&node-id=0-1&mode=design&t=dWTCGlzLh3hGAccG-0)
